@@ -1,0 +1,5 @@
+Laravel sendiri tidak membuat fitur logging dari awal. Laravel menggunakan library monolog untuk 
+melakukan logging 
+Walaupun laravel menggunakan library monolog untuk melakukan logging,namun Laravel juga menambah
+fitur untuk mempermudah penggunaan library monolog sehingga kita tidak perlu melakukan konfigurasi
+secara meanual
